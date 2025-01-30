@@ -1,1 +1,3 @@
 # ParcijalniIspit
+
+Mateo Smida
